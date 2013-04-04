@@ -1,0 +1,4 @@
+function (err, data) {
+				if (err) throw err;
+				console.log('Wrote URL to file!');
+			}

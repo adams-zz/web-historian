@@ -1,0 +1,7 @@
+{
+  "name": "AwesomeProject",
+  "version": "0.1.0",
+  "dependencies": {
+    "q": "~0.8.12"
+  }
+}
